@@ -1,2 +1,2 @@
 # SQLProject
-SQL Project on credit card transactions
+SQL Project on Credit Card Transactions and SQL Project on Olympics History
